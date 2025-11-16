@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
 body{
-            font-family: Arial;
+
+            font-family:ital ;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
